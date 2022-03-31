@@ -1,0 +1,1 @@
+# Temperature-based-Fire-Alarm-Safety-System
